@@ -1,7 +1,7 @@
 <h1 align="center">virus</h1>
 <div align="center">
 <a href="https://github.com/rbknkt/virus/stargazers"><img src="https://img.shields.io/github/stars/rbknkt/virus" alt="Stars Badge"/></a>
-<a href="https://github.com/rbknkt/virus/LICENSE"><img src="https://img.shields.io/github/license/rbknkt/virus?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/rbknkt/virus//blob/master/LICENSE"><img src="https://img.shields.io/github/license/rbknkt/virus?color=2b9348" alt="License Badge"/></a>
 </div>
 
 ## ⚠️ !WARNING!⚠️
